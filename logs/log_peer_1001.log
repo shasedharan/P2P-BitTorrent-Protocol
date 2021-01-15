@@ -1,0 +1,1176 @@
+Dec/12/2020 22:57:16: Reading the peer node configurations from PeerInfo.cfg. Peer[1001] has the file. Splitting the file into chunks and setting all the Bitfield components to 1.
+Dec/12/2020 22:57:16: Peer [1001] has the following configurations: NumberOfPreferredNeighbors: 3 UnchokingInterval: 5 OptimisticUnchokingInterval: 10 FileName: thefile FileSize: 4335410 PieceSize: 32768
+Dec/12/2020 22:57:18: Peer [1001] is connected from Peer [1002].
+Dec/12/2020 22:57:18: Peer [1001] received the 'bitfield' message from [1002].
+Dec/12/2020 22:57:18: Peer [1001] received the 'interested' message from [1002].
+Dec/12/2020 22:57:18: Peer [1001] has the optimistically unchoked neighbor [1002].
+Dec/12/2020 22:57:18: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:18: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:18: Peer [1001] is connected from Peer [1003].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [106].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [63].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [76].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [11].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [130].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [70].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [17].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [27].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [43].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [112].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [127].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [45].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [19].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [88].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [82].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [8].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [128].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [73].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [85].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [96].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [100].
+Dec/12/2020 22:57:19: Peer [1001] received the 'bitfield' message from [1003].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [101].
+Dec/12/2020 22:57:19: Peer [1001] received the 'interested' message from [1003].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [52].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [69].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [49].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [75].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [110].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [6].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [121].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [60].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [68].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [92].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [99].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [21].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [15].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [3].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [22].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [53].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [54].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [18].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [102].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [10].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [61].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [125].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [32].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [41].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [65].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [115].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [83].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [58].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [126].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [20].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [87].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [107].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [84].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [33].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [31].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [132].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [72].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [93].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [13].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [67].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [16].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [57].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1003] for the piece [73].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [34].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [28].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [105].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [77].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [111].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [74].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [81].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1003] for the piece [92].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [94].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [78].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [79].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1003] for the piece [130].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [36].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1003] for the piece [63].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [86].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [131].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [1].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1003] for the piece [115].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [42].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1003] for the piece [21].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [122].
+Dec/12/2020 22:57:19: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:19: Peer [1001] received the 'have' message from [1002] for the piece [116].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [119].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [69].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [90].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [39].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [117].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [7].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [40].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [132].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [35].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [29].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [88].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [103].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [26].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [56].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [25].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [94].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [98].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [102].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [30].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [25].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [64].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [15].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [11].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [71].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [2].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [12].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [53].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [89].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [48].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [83].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [85].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [124].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [109].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [37].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [122].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [62].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [36].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [46].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [119].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [14].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [64].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [89].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [23].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [95].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [47].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [113].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [75].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [6].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [65].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [58].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [91].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [44].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [9].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [108].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [38].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [131].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [17].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [124].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [113].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [40].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [114].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [66].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [118].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [24].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [5].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [80].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [59].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [97].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [51].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [50].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [87].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [47].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [55].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [4].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [123].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [20].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [104].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [118].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [0].
+Dec/12/2020 22:57:20: Peer [1001] received the 'request' message from [1002].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [120].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [39].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1002] for the piece [129].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [23].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [33].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [70].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [108].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [74].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [8].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [76].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [45].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [4].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [5].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [121].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [30].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [105].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [106].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [7].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [111].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [97].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [127].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [84].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [78].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [49].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [9].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [56].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [104].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [46].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [128].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [109].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [18].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [54].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [27].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [120].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [13].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [93].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [67].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [82].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [123].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [60].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [14].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [126].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [31].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [55].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [34].
+Dec/12/2020 22:57:20: Peer [1001] received the 'have' message from [1003] for the piece [62].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [72].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [117].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [116].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [12].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [91].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [99].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [61].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [48].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [16].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [22].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [79].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [66].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [57].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [35].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [32].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [1].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [10].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [43].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [114].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [29].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [42].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [81].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [24].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [95].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [41].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [100].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [37].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [80].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [103].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [52].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [125].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [50].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [90].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [2].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [86].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [19].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [98].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [129].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [71].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [38].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [44].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [51].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [26].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [96].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [59].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [0].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [77].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [112].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [101].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [3].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [68].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [107].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [110].
+Dec/12/2020 22:57:21: Peer [1001] received the 'have' message from [1003] for the piece [28].
+Dec/12/2020 22:57:21: Peer [1001] has the preferred neighbors [1002, 1003].
+Dec/12/2020 22:57:22: Peer [1001] is connected from Peer [1004].
+Dec/12/2020 22:57:23: Peer [1001] received the 'bitfield' message from [1004].
+Dec/12/2020 22:57:23: Peer [1001] received the 'interested' message from [1004].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [131].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [69].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [108].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [80].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [119].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [60].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [62].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [46].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [28].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [64].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [18].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [9].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [76].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [65].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [78].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [40].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [107].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [70].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [29].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [118].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [6].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [68].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [128].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [57].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [51].
+Dec/12/2020 22:57:24: Peer [1001] received the 'have' message from [1004] for the piece [48].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [54].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [84].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [109].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [10].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [117].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [85].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [105].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [126].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [3].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [8].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [33].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [88].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [94].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [91].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [44].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [100].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [116].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [20].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [72].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [61].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [122].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [132].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [23].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [67].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [24].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [50].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [14].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [13].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [73].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [83].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [39].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [16].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [34].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [0].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [43].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [115].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [97].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [47].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [124].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [1].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [114].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [7].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [90].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [17].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [86].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [120].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [81].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [106].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [55].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [102].
+Dec/12/2020 22:57:25: Peer [1001] received the 'have' message from [1004] for the piece [42].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [21].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [12].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [2].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [92].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [22].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [52].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [4].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [74].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [77].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [56].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [98].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [19].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [82].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [66].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [63].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [5].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [59].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [101].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [87].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [11].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [41].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [99].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [125].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [129].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [110].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [45].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [112].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [113].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [36].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [123].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [75].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [104].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [30].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [121].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [27].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [89].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [15].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [111].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [25].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [93].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [53].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [95].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [38].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [58].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [96].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [37].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [35].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [49].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [31].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [103].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [26].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [79].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [127].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [71].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [130].
+Dec/12/2020 22:57:26: Peer [1001] received the 'have' message from [1004] for the piece [32].
+Dec/12/2020 22:57:27: Peer [1001] has the preferred neighbors [1002, 1003, 1004].
+Dec/12/2020 22:57:28: Peer [1001] is connected from Peer [1005].
+Dec/12/2020 22:57:28: Peer [1001] has the optimistically unchoked neighbor [1003].
+Dec/12/2020 22:57:29: Peer [1001] received the 'bitfield' message from [1005].
+Dec/12/2020 22:57:29: Peer [1001] received the 'interested' message from [1005].
+Dec/12/2020 22:57:29: Peer [1001] is connected from Peer [1006].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [82].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [98].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [43].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [59].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [83].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [93].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [68].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [4].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [81].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [3].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [6].
+Dec/12/2020 22:57:30: Peer [1001] received the 'bitfield' message from [1006].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [112].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [109].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [7].
+Dec/12/2020 22:57:30: Peer [1001] received the 'not interested' message from [1006].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [31].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [132].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [69].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [84].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [95].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [94].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [86].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [54].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [20].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [35].
+Dec/12/2020 22:57:30: Peer [1001] received the 'have' message from [1005] for the piece [76].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [123].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [30].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [51].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [40].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [61].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [111].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [37].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [101].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [91].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [44].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [62].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [55].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [16].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [11].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [122].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [129].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [72].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [46].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [66].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [96].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [63].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [70].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [50].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [26].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [117].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [2].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [75].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [90].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [5].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [33].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [130].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [32].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [34].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [47].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [73].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [0].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [36].
+Dec/12/2020 22:57:31: Peer [1001] is connected from Peer [1007].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [78].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [89].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [25].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [17].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [107].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [29].
+Dec/12/2020 22:57:31: Peer [1001] is connected from Peer [1008].
+Dec/12/2020 22:57:31: Peer [1001] received the 'have' message from [1005] for the piece [118].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [27].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [39].
+Dec/12/2020 22:57:32: Peer [1001] has the preferred neighbors [1003, 1004, 1002].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [103].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [56].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [128].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [49].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [113].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [52].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [38].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [24].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [87].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [80].
+Dec/12/2020 22:57:32: Peer [1001] received the 'bitfield' message from [1007].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [77].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [104].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [15].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [124].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [100].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [120].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [125].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [22].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [92].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [60].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [102].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [14].
+Dec/12/2020 22:57:32: Peer [1001] received the 'interested' message from [1007].
+Dec/12/2020 22:57:32: Peer [1001] received the 'bitfield' message from [1008].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [42].
+Dec/12/2020 22:57:32: Peer [1001] received the 'interested' message from [1008].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [126].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [64].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [110].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [41].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [65].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [1].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [48].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [9].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [21].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [74].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [116].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [28].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [106].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [19].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [85].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [119].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [114].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [88].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [99].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [58].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [53].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [108].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [57].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [79].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [67].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [131].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [23].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [45].
+Dec/12/2020 22:57:32: Peer [1001] received the 'have' message from [1005] for the piece [10].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1005] for the piece [127].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1005] for the piece [12].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1005] for the piece [18].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1005] for the piece [13].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1005] for the piece [121].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1005] for the piece [115].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1005] for the piece [105].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1005] for the piece [97].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1005] for the piece [71].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1005] for the piece [8].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1008] for the piece [9].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1008] for the piece [95].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1008] for the piece [54].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1008] for the piece [119].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1008] for the piece [23].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1008] for the piece [39].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1008] for the piece [71].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1008] for the piece [62].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1007] for the piece [1].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1008] for the piece [96].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1007] for the piece [92].
+Dec/12/2020 22:57:33: Peer [1001] received the 'have' message from [1008] for the piece [74].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [31].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [30].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [131].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [9].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [121].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [80].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [108].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [102].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [7].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [23].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [69].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [75].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [95].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [60].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [1].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [78].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [50].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [108].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [31].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [114].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [58].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [14].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [75].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [44].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [121].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [6].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [5].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [59].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [74].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [55].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [113].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [85].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [82].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [4].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [98].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [104].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [48].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [92].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [30].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [112].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [129].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [129].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [15].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [119].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [123].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [24].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [65].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [70].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [50].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [37].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [62].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [116].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [63].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [105].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [72].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [129].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [29].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [99].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [114].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [78].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [100].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [6].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [115].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [117].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [46].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [104].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [82].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [80].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [86].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [79].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [38].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [89].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [131].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [43].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [52].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [45].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [81].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [37].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [132].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [46].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [51].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [96].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [67].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [130].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [106].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [35].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [16].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [103].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [88].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [102].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [101].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [52].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [117].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [111].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [57].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [28].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [49].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [112].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [59].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [109].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [91].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [69].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [103].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [98].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [81].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [113].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [61].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [21].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [53].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [11].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [27].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [27].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [4].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [110].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [107].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [32].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [71].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [86].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [72].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [47].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [127].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [17].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [65].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [55].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [45].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [94].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [123].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [28].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [58].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [122].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [100].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [56].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [2].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [15].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1007] for the piece [32].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [97].
+Dec/12/2020 22:57:34: Peer [1001] received the 'have' message from [1008] for the piece [48].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [2].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [40].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [64].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [77].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [89].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [125].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [116].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [11].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [21].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [18].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [26].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [42].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [70].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [126].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [56].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [64].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [70].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [39].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [90].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [35].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [16].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [19].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [128].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [77].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [109].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [106].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [99].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [63].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [83].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [53].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [94].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [83].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [79].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [22].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [68].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [40].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [10].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [0].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [42].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [24].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [60].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [130].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [22].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [107].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [24].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [107].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [73].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [120].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [34].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [27].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [8].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [110].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [5].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [120].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [87].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [10].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [12].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [0].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [76].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [47].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [20].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [68].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [126].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [36].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [88].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [66].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [41].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [44].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [66].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [91].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [7].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [13].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [87].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [33].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [127].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [3].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [111].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [118].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [84].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [115].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [84].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [33].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [97].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [93].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [18].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [12].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [25].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [85].
+Dec/12/2020 22:57:35: Peer [1001] is connected from Peer [1009].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [124].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [8].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [43].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [54].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [19].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1008] for the piece [124].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [49].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [38].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [132].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [51].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [14].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [17].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [61].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [93].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [25].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [73].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [105].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [90].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [128].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [20].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [34].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [125].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [3].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [57].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [41].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [76].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [122].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [36].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [67].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [13].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [84].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [29].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [118].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [26].
+Dec/12/2020 22:57:35: Peer [1001] received the 'have' message from [1007] for the piece [101].
+Dec/12/2020 22:57:36: Peer [1001] received the 'bitfield' message from [1009].
+Dec/12/2020 22:57:36: Peer [1001] received the 'interested' message from [1009].
+Dec/12/2020 22:57:37: Peer [1001] has the preferred neighbors [1008, 1002, 1009].
+Dec/12/2020 22:57:37: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:37: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [127].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [38].
+Dec/12/2020 22:57:38: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [69].
+Dec/12/2020 22:57:38: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [124].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [111].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [74].
+Dec/12/2020 22:57:38: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [108].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [36].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [73].
+Dec/12/2020 22:57:38: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [87].
+Dec/12/2020 22:57:38: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [104].
+Dec/12/2020 22:57:38: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [67].
+Dec/12/2020 22:57:38: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [129].
+Dec/12/2020 22:57:38: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [79].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [94].
+Dec/12/2020 22:57:38: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [6].
+Dec/12/2020 22:57:38: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [95].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [44].
+Dec/12/2020 22:57:38: Peer [1001] has the optimistically unchoked neighbor [1002].
+Dec/12/2020 22:57:38: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [39].
+Dec/12/2020 22:57:38: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [23].
+Dec/12/2020 22:57:38: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [132].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [62].
+Dec/12/2020 22:57:38: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [126].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [41].
+Dec/12/2020 22:57:38: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [75].
+Dec/12/2020 22:57:38: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [122].
+Dec/12/2020 22:57:38: Peer [1001] received the 'have' message from [1009] for the piece [117].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [103].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [114].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [81].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [33].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [128].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [8].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [19].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [71].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [118].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [19].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [37].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [101].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [16].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [48].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [25].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [4].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [68].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [2].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [116].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [14].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [90].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [107].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [102].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [13].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [17].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [30].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [85].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [42].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [63].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [109].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [106].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [20].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [105].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [54].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [82].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [89].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [1].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [100].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [0].
+Dec/12/2020 22:57:39: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [76].
+Dec/12/2020 22:57:39: Peer [1001] received the 'have' message from [1009] for the piece [120].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [70].
+Dec/12/2020 22:57:40: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [113].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [97].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [88].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [92].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [26].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [28].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [50].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [91].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [12].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [18].
+Dec/12/2020 22:57:40: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [56].
+Dec/12/2020 22:57:40: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [9].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [34].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [31].
+Dec/12/2020 22:57:40: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [65].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [77].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [27].
+Dec/12/2020 22:57:40: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [119].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [15].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [80].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [112].
+Dec/12/2020 22:57:40: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [11].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [55].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [96].
+Dec/12/2020 22:57:40: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [60].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [84].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [5].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [86].
+Dec/12/2020 22:57:40: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [130].
+Dec/12/2020 22:57:40: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:40: Peer [1001] received the 'have' message from [1009] for the piece [98].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [130].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [24].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [131].
+Dec/12/2020 22:57:41: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [59].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [59].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [52].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [121].
+Dec/12/2020 22:57:41: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [115].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [123].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [47].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [45].
+Dec/12/2020 22:57:41: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [93].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [64].
+Dec/12/2020 22:57:41: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [40].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [93].
+Dec/12/2020 22:57:41: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [29].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [29].
+Dec/12/2020 22:57:41: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [49].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [7].
+Dec/12/2020 22:57:41: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [7].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [78].
+Dec/12/2020 22:57:41: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [53].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [57].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [58].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [35].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [43].
+Dec/12/2020 22:57:41: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [83].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [99].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [110].
+Dec/12/2020 22:57:41: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [10].
+Dec/12/2020 22:57:41: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [46].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [32].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [10].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [125].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [22].
+Dec/12/2020 22:57:41: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [22].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [3].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [3].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [66].
+Dec/12/2020 22:57:41: Peer [1001] received the 'request' message from [1009].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [61].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [51].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [51].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [21].
+Dec/12/2020 22:57:41: Peer [1001] received the 'have' message from [1009] for the piece [72].
+Dec/12/2020 22:57:46: All the Peer Nodes have downloaded the Complete File. Terminating Process!
